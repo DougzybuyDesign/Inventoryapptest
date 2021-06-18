@@ -1,2 +1,2 @@
-# Inventoryapptest
+# inventoryApp
 Created with CodeSandbox
